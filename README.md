@@ -4,4 +4,5 @@
 <div> NIM  : 231031059</div>
 <div> Prodi: Sistem informasi</div>
 
-* Praktikum 1: Pengenalan variabel `praktikum-1.py`
+* Praktikum 1: Pengenalan Variabel `praktikum-1.py`
+* Praktikum 2: Operator Praktikum `praktikum-2.py`

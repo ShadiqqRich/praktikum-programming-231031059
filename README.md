@@ -21,5 +21,5 @@
 * tugas b10-2b : Program selisih waktu `231031059-shadiq-tugas10-no2-b.py`
 * praktikum b11: Fungsi rekursif fibonacci `231031059-shadiq-praktikum-b11.py`
 * Mid Semester : Program kasir `231031059-middle-SIB.py`
-* tugas b12    : flowchart
-* tugas b12    : Rangkuman materi
+* tugas b12    : flowchart `231031059-Muhammad Shadiq Dzakwan-SI23B`
+* tugas b12    : Rangkuman materi `231031059-Muhammad Shadiq Dzakwan-TugasRangkuman-SI23B`
